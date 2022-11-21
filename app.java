@@ -2,4 +2,4 @@
 #please do not hard code
 #make use of variables and dynamic variables
 #author: Dagz
-#Learning medium: Dveops Master Class
+#Learning medium: Devops Master Class
