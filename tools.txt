@@ -1,3 +1,13 @@
 Excel
 Powerpoint
 Word
+==============
+Git
+Gitbash
+AWS
+Linux
+Jenkins
+Maven
+Ansible
+Tomcat
+Docker
