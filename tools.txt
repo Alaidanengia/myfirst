@@ -1,7 +1,6 @@
 Excel
 Powerpoint
 Word
-==============
 Git
 Gitbash
 AWS
